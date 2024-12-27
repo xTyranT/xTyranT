@@ -1,6 +1,6 @@
 <h3 align="center">DevOps, DevSecOps enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [xtyrant.me](xtyrant.me)
+- 👨‍💻 All of my projects are available at [xtyrant.me](https://xtyrant.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
